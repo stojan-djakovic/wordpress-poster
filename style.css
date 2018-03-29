@@ -1,0 +1,170 @@
+* {
+    font-family:  "Trebuchet MS", Helvetica, sans-serif;
+ color: #363636;
+}
+
+body {
+ margin:0px;
+ padding: 0px;
+
+ background: #e5e5e5;
+ padding-bottom: 20px;
+}
+
+
+#main {
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+ margin-top: 20px;
+ background-color: #fff;
+ padding: 20px;
+ padding-top: 15px;
+}
+
+h1,h2,h3,h4,h5 {
+    margin: 3px;
+    padding: 2px;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 2px solid #1E90FF;
+    color: #1E90FF;
+}
+
+form {
+    margin-top: 15px;
+}
+
+form fieldset {
+    margin-top: 15px;
+}
+
+form fieldset legend {
+ font-weight: bold;
+ font-size: 22px;
+}
+
+label {
+    display: block;
+    font-size:17px;
+ color: #1E90FF;
+}
+
+.inp1 {
+    display: block;
+    border: 1px solid #e5e5e5;
+    padding: 5px;
+    margin-top: 5px;
+    height: 30px;
+    line-height: 30px;
+    width: 690px;
+}
+
+.txt1 {
+    display: block;
+    width: 680px;
+    height: 250px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.sbm1 {
+    display: block;
+    font-weight:bold;
+    margin-right: 5px;
+    font-size: 22px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+select {
+    padding: 5px;
+}
+
+
+label i,td i {
+    font-style: italic;
+    font-size: 16px;
+    color: #969696;
+}
+
+h3.err {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #FF0000;
+    padding: 5px;
+ padding-left: 10px;
+  padding-right: 10px;
+    color: #FFFFFF;
+     background-color: #FF6347;
+      font-weight: bold;
+      font-size: 16px;
+
+}
+
+h3.ok {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #008000;
+    padding: 5px;
+ padding-left: 10px;
+  padding-right: 10px;
+
+    color: #008000;
+     background-color: #90EE90;
+      font-weight: bold;
+      font-size: 16px;
+
+}
+
+
+hr {
+
+}
+
+.link_edit {
+  text-decoration: none;
+  color: #4169E1;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.link_view {
+  text-decoration: none;
+  color: #4169E1;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+.link_edit:hover {
+  color: #800000;
+
+}
+
+.link_view:hover {
+  color: #800000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
