@@ -13,6 +13,10 @@ http://emnix.com/wordpress-poster/
 Screenshots
 
 https://i.imgur.com/aPsD7ar.jpg
+
 https://i.imgur.com/54iWZG3.jpg
+
 https://i.imgur.com/CSPqlR1.jpg
+
 https://i.imgur.com/KMuwN1G.jpg
+
